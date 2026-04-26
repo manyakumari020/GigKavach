@@ -308,7 +308,7 @@ npm start
 
 ### Default Credentials
 - **Admin:** `admin` / `admin123`
-- **API Docs:** http://127.0.0.1:8000/docs
+- **API Docs:** http://localhost:16016/docs
 
 ---
 
